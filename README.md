@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Polydate APP**
 
-- 🌱 I’m currently learning **Docker, Kubernetese**
+- 🌱 I’m currently learning **Docker, Kubernetes**
 
 - 👨‍💻 All of my projects are available at [http://e-scapegame.fr/](http://e-scapegame.fr/)
 
