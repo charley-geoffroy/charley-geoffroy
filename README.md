@@ -11,6 +11,10 @@
 
 - 📫 How to reach me **charley.geoffroy@protonmail.com**
 
+<h3 align="left">My last project POLYNOTES</h3>
+
+[![wakatime](https://wakatime.com/badge/user/8c51dfaf-cc71-4c33-bb4f-07b1a77dce06/project/6160a20e-1f13-4866-b07b-8adea0765e70.svg)](https://wakatime.com/badge/user/8c51dfaf-cc71-4c33-bb4f-07b1a77dce06/project/6160a20e-1f13-4866-b07b-8adea0765e70)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
