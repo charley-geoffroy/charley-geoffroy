@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Rust**
 
-![Alt Text](https://i.imgur.com/BT2Z6X5.gif)
+![Alt Text](https://media2.giphy.com/media/3oFzmdjqH15YebLQ52/giphy.gif?cid=ecf05e47udjhg97wlnqxhhocmooklufoqwej2xfjkglbl578&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 <h3 align="left">My last project POLYNOTES</h3>
 
