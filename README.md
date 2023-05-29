@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Kubernetes, Rust**
 
-- 📫 How to reach me **charley.geoffroy@protonmail.com**
+![Alt Text](https://i.imgur.com/BT2Z6X5.gif)
 
 <h3 align="left">My last project POLYNOTES</h3>
 
@@ -53,6 +53,7 @@
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   
-  
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=charley04310&theme=neon)](https://git.io/streak-stats)
-  
+  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charley04310&show_icons=true&locale=en&theme=synthwave) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charley04310&theme=synthwave) |
+|---|---|
+ 
+
