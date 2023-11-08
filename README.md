@@ -51,7 +51,6 @@
   ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
   ![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
   
-  | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=charley04310&show_icons=true&locale=en&theme=synthwave) | ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=charley04310&theme=synthwave) |
 |---|---|
  
 
