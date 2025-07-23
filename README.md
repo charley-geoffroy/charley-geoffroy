@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Charley</h1>
-<h3 align="center">French DevOps engineer student at Polytech Montpellier ♾️</h3>
+<h3 align="center">French DevOps engineer ♾️</h3>
 
 - 🔭 I’m currently working on **Rust**
 
 - 🌱 I’m currently learning **Kubernetes, Rust**
   
-- Keycloack contributor
+- 🤝 Open source contributor to Keycloak
+
+- 💼 Passionate about DevOps practices, infrastructure automation, and modern development workflows
+
 
 <img src="https://media2.giphy.com/media/3oFzmdjqH15YebLQ52/giphy.gif?cid=ecf05e47udjhg97wlnqxhhocmooklufoqwej2xfjkglbl578&ep=v1_gifs_search&rid=giphy.gif&ct=g" height="100" alt="Alt Text">
 
-<h3 align="left">My last project POLYNOTES</h3>
-
-[![wakatime](https://wakatime.com/badge/user/8c51dfaf-cc71-4c33-bb4f-07b1a77dce06/project/6160a20e-1f13-4866-b07b-8adea0765e70.svg)](https://wakatime.com/badge/user/8c51dfaf-cc71-4c33-bb4f-07b1a77dce06/project/6160a20e-1f13-4866-b07b-8adea0765e70)
 
 <p align="left">
 </p>
