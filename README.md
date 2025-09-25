@@ -2,8 +2,6 @@
 <h3 align="center">French DevOps engineer ♾️</h3>
 
 - 🔭 I’m currently working on **Rust**
-
-- 🌱 I’m currently learning **Kubernetes, Rust**
   
 - 🤝 Open source contributor to Keycloak
 
